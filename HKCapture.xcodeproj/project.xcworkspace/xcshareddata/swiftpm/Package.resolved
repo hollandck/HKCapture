@@ -1,0 +1,15 @@
+{
+  "originHash" : "e89a7c766d0dcb5191208e80aa24ff7e3facdac2793ea23978b05de7acf77dd3",
+  "pins" : [
+    {
+      "identity" : "appledevicemap",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hollandck/AppleDeviceMap",
+      "state" : {
+        "branch" : "main",
+        "revision" : "fa19594ced1ead621fd4b07be95bd1ced4c1f66d"
+      }
+    }
+  ],
+  "version" : 3
+}
